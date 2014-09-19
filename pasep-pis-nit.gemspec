@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['jefferson@shamani.me']
   spec.summary       = %q{Validação de PASEP/PIS/NIT para sua aplicação.}
   spec.description   = %q{Validação de PASEP/PIS/NIT para sua aplicação.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/shamanime/pasep-pis-nit'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
