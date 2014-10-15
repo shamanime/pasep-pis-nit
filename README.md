@@ -1,6 +1,6 @@
 # pasep-pis-nit
 
-[![Code Climate](https://codeclimate.com/github/shamanime/pasep-pis-nit/badges/gpa.svg)](https://codeclimate.com/github/shamanime/pasep-pis-nit)
+[![Code Climate](https://codeclimate.com/github/shamanime/pasep-pis-nit/badges/gpa.svg)](https://codeclimate.com/github/shamanime/pasep-pis-nit)[![Test Coverage](https://codeclimate.com/github/shamanime/pasep-pis-nit/badges/coverage.svg)](https://codeclimate.com/github/shamanime/pasep-pis-nit)
 
 Allows ActiveModel backed classes to validate PASEP/PIS/NIT fields.
 
